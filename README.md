@@ -74,6 +74,8 @@ Filterable views for deeper insights
 
 Clear visual storytelling for non-technical users
 
+![image alt](https://github.com/akankshab2003-cell/Customer_behavior_analysis/blob/073109dbf047dc6ae5919d99ba6ab70116aad7ff/customer_shopping_behavior_dashboard.png)
+
 # Results & Insights
 
 Transformed raw data into structured, query-ready tables.
