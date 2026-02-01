@@ -1,18 +1,18 @@
-# Customer_behavior_analysis
+# • Customer_behavior_analysis
 Data analytics project showcasing the customer behavior analysis using python , power bi and sql
-# Overview        
+•# Overview        
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data ingestion to insights visualization. It covers data loading and cleaning in Python, exploratory data analysis (EDA), querying structured data using PostgreSQL, and building an interactive Power BI dashboard for business insights.
 
 The goal of the project is to showcase practical data analytics skills, including data preparation, SQL querying, and dashboard development.
 
-# Dataset
+# • Dataset
 
 Format: CSV
 
 Description: The dataset contains structured records used to analyze trends, patterns, and key performance metrics relevant to the business/problem domain.
 
-# Tools & Technologies
+# • Tools & Technologies
 
 Python: Data loading, cleaning, and EDA
 
@@ -24,7 +24,7 @@ SQL: Data aggregation and analysis
 
 Power BI: Interactive dashboard and data visualization
 
-# Project Steps
+# • Project Steps
 
 Data Loading
 
@@ -62,7 +62,7 @@ Built interactive visuals and KPIs.
 
 Designed a user-friendly dashboard layout.
 
-# Dashboard
+# • Dashboard
 
 The Power BI dashboard provides:
 
@@ -76,7 +76,7 @@ Clear visual storytelling for non-technical users
 
 ![image alt](https://github.com/akankshab2003-cell/Customer_behavior_analysis/blob/073109dbf047dc6ae5919d99ba6ab70116aad7ff/customer_shopping_behavior_dashboard.png)
 
-# Results & Insights
+# • Results & Insights
 
 Transformed raw data into structured, query-ready tables.
 
